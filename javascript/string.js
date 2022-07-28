@@ -27,3 +27,10 @@ console.log(nomComplet.length);
 /*La methode et une fontion qui et attacher a un objet ou un type de données*/
 
 //methode sans argument ou parametre
+console.log(nomComplet.toUpperCase());
+console.log(nomComplet.toLowerCase());
+
+//methode avec argument ou parametre
+console.log(nomComplet.indexOf('g'));
+console.log(nomComplet.slice(0,11));
+console.log(nomComplet.replace('C', 'M'));
