@@ -18,3 +18,5 @@ console.log(age > 25);
 console.log(age < 25);
 console.log(age >= 25);
 console.log(age <= 25);
+console.log(nom != 'coutie');
+console.log(nom == 'coutie');
