@@ -13,7 +13,7 @@ console.log(Math.round(value));
 console.log(Math.floor(value));
 
 // Arrondissement par excés
-console.log(Math.ecil(value));
+console.log(Math.ceil(value));
 
 //Random numbers (Génération d'un nombre aléatoire)
 const random = Math.random();
