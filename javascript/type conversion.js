@@ -2,7 +2,7 @@ let likes = '100';
 console.log(likes + 1);
 console.log(typeof likes);
 
-let conversionlikes = nNumber(likes);
+let conversionLikes = Number(likes);
 console.log(conversionLikes);
 console.log(typeof conversionLikes);
 
